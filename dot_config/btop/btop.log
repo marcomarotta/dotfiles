@@ -1,0 +1,32 @@
+
+2024/01/28 (23:00:33) | ===> btop++ v.1.3.0
+2024/01/28 (23:00:33) | INFO: Logger set to DEBUG
+2024/01/28 (23:00:33) | DEBUG: Using locale it_IT.UTF-8
+2024/01/28 (23:00:33) | INFO: Running on /dev/pts/0
+2024/01/28 (23:00:33) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: impossibile aprire il file oggetto condiviso: File o directory non esistente
+2024/01/28 (23:00:33) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: impossibile aprire il file oggetto condiviso: File o directory non esistente
+2024/01/28 (23:00:33) | DEBUG: Shared::init() : Initialized.
+
+2024/01/28 (23:02:44) | ===> btop++ v.1.3.0
+2024/01/28 (23:02:44) | INFO: Logger set to DEBUG
+2024/01/28 (23:02:44) | DEBUG: Using locale it_IT.UTF-8
+2024/01/28 (23:02:44) | INFO: Running on /dev/pts/0
+2024/01/28 (23:02:44) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: impossibile aprire il file oggetto condiviso: File o directory non esistente
+2024/01/28 (23:02:44) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: impossibile aprire il file oggetto condiviso: File o directory non esistente
+2024/01/28 (23:02:44) | DEBUG: Shared::init() : Initialized.
+
+2024/01/28 (23:02:58) | ===> btop++ v.1.3.0
+2024/01/28 (23:02:58) | INFO: Logger set to DEBUG
+2024/01/28 (23:02:58) | DEBUG: Using locale it_IT.UTF-8
+2024/01/28 (23:02:58) | INFO: Running on /dev/pts/0
+2024/01/28 (23:02:58) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: impossibile aprire il file oggetto condiviso: File o directory non esistente
+2024/01/28 (23:02:58) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: impossibile aprire il file oggetto condiviso: File o directory non esistente
+2024/01/28 (23:02:58) | DEBUG: Shared::init() : Initialized.
+
+2024/01/31 (21:28:37) | ===> btop++ v.1.3.0
+2024/01/31 (21:28:37) | INFO: Logger set to DEBUG
+2024/01/31 (21:28:37) | DEBUG: Using locale it_IT.UTF-8
+2024/01/31 (21:28:37) | INFO: Running on /dev/pts/4
+2024/01/31 (21:28:37) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: impossibile aprire il file oggetto condiviso: File o directory non esistente
+2024/01/31 (21:28:37) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: impossibile aprire il file oggetto condiviso: File o directory non esistente
+2024/01/31 (21:28:37) | DEBUG: Shared::init() : Initialized.
